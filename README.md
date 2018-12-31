@@ -7,8 +7,6 @@ Playing the game
 
 Note: Make sure to have the "res" folder within the "Game" folder
 
-Game Graphics:
+Game Graphics: Rogue Dungeon Tileset 16x16 - Secret Hideout
 
-Title: Rogue Dungeon Tileset 16x16
-Tile Set Creator: Secret Hideout
 Profile: https://itch.io/profile/secrethideout
