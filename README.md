@@ -11,5 +11,5 @@ Game Graphics: Rogue Dungeon Tileset 16x16 - Secret Hideout
 
 Profile: https://itch.io/profile/secrethideout
 
-![image](https://user-images.githubusercontent.com/38359318/57168348-7039ba00-6dcf-11e9-9920-7401cfc1fc74.png)
+![image](https://user-images.githubusercontent.com/38359318/57168348-7039ba00-6dcf-11e9-9920-7401cfc1fc74.png =250x250)
 
