@@ -13,3 +13,8 @@ Profile: https://itch.io/profile/secrethideout
 
 ![image](https://user-images.githubusercontent.com/38359318/57168348-7039ba00-6dcf-11e9-9920-7401cfc1fc74.png)
 
+![image](https://user-images.githubusercontent.com/38359318/57168488-e63e2100-6dcf-11e9-973f-1b43bb115fe9.png)
+
+![image](https://user-images.githubusercontent.com/38359318/57168508-fd7d0e80-6dcf-11e9-9a06-87e8897cb7d6.png)
+
+![image](https://user-images.githubusercontent.com/38359318/57168534-29988f80-6dd0-11e9-9474-2b0696472b57.png)
