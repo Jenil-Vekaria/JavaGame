@@ -10,3 +10,5 @@ Note: Make sure to have the "res" folder within the "Game" folder
 Game Graphics: Rogue Dungeon Tileset 16x16 - Secret Hideout
 
 Profile: https://itch.io/profile/secrethideout
+
+https://github.com/Jenil-Vekaria/JavaGame/issues/1#issue-440241372
