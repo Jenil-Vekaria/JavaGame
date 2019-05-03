@@ -11,4 +11,5 @@ Game Graphics: Rogue Dungeon Tileset 16x16 - Secret Hideout
 
 Profile: https://itch.io/profile/secrethideout
 
-https://github.com/Jenil-Vekaria/JavaGame/issues/1#issue-440241372
+![image](https://user-images.githubusercontent.com/38359318/57168348-7039ba00-6dcf-11e9-9920-7401cfc1fc74.png)
+
